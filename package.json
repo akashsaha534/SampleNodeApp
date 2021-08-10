@@ -1,0 +1,24 @@
+{
+  "name": "SampleNodeApp",
+  "version": "1.0.0",
+  "description": "This is the Sample Node JS App. It is just for demonstration purpose of how a Node Application works.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashsaha534/SampleNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashsaha534/SampleNodeApp/issues"
+  },
+  "homepage": "https://github.com/akashsaha534/SampleNodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
